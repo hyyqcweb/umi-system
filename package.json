@@ -1,4 +1,13 @@
 {
+  "name": "umi-system",
+  "author": "hyyqc",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "dva",
+    "umi",
+    "antd"
+  ],
   "private": true,
   "scripts": {
     "start": "umi dev",
